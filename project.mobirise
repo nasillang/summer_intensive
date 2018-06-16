@@ -46,7 +46,7 @@
     "sitemapSwitcher": "on",
     "google-analytics": "",
     "cookiesAlert": "",
-    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    "gdpr": ""
   },
   "pages": {
     "about-u.html": {
